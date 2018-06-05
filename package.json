@@ -1,0 +1,6 @@
+{
+  "name": "nannou_web",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
